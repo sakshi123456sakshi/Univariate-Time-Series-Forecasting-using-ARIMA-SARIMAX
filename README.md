@@ -1,4 +1,4 @@
-📈**Univariate Time Series Forecasting using ARIMA & SARIMAX**
+📈**Project Name-Univariate Time Series Forecasting using ARIMA & SARIMAX**
 
 ---------------------------
 This project demonstrates how to perform time series forecasting for a grocery store’s monthly sales using classical statistical models like ARIMA and SARIMAX. The aim is to build a forecasting model that can predict sales for the next 12 months based on historical data.
